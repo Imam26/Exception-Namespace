@@ -1,0 +1,14 @@
+C:\Users\Ильяс Сабитов\source\Exception-Namespace\bin\Debug\Exception-Namespace.exe.config
+C:\Users\Ильяс Сабитов\source\Exception-Namespace\bin\Debug\Exception-Namespace.exe
+C:\Users\Ильяс Сабитов\source\Exception-Namespace\bin\Debug\Exception-Namespace.pdb
+C:\Users\Ильяс Сабитов\source\Exception-Namespace\obj\Debug\FirstTask.csprojResolveAssemblyReference.cache
+C:\Users\Ильяс Сабитов\source\Exception-Namespace\obj\Debug\FirstTask.csproj.CoreCompileInputs.cache
+C:\Users\Ильяс Сабитов\source\Exception-Namespace\obj\Debug\Exception-Namespace.exe
+C:\Users\Ильяс Сабитов\source\Exception-Namespace\obj\Debug\Exception-Namespace.pdb
+C:\Users\Ильяс Сабитов\source\Exception\FirstTask\bin\Debug\Exception-Namespace.exe.config
+C:\Users\Ильяс Сабитов\source\Exception\FirstTask\bin\Debug\Exception-Namespace.exe
+C:\Users\Ильяс Сабитов\source\Exception\FirstTask\bin\Debug\Exception-Namespace.pdb
+C:\Users\Ильяс Сабитов\source\Exception\FirstTask\obj\Debug\FirstTask.csprojResolveAssemblyReference.cache
+C:\Users\Ильяс Сабитов\source\Exception\FirstTask\obj\Debug\FirstTask.csproj.CoreCompileInputs.cache
+C:\Users\Ильяс Сабитов\source\Exception\FirstTask\obj\Debug\Exception-Namespace.exe
+C:\Users\Ильяс Сабитов\source\Exception\FirstTask\obj\Debug\Exception-Namespace.pdb
